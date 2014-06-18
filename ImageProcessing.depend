@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1400581394 source:/home/h4xx/ownCloud/code/Bildverarbeitungs_Projekt/main.cpp
+1402474656 source:/home/h4xx/Documents/Bildverarbeitung/main.cpp
 	<stdio.h>
 	<stdlib.h>
 	"opencv2/imgproc/imgproc_c.h"
